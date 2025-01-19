@@ -16,4 +16,4 @@ Adversarial Examples)
 4. Сравнить атаку на обе модели (полносвязную и свёрточную сети).
 
 
-**3. Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/1wbVJEjxYQS4xX8VoD1swM10Q2ocn9bvu#scrollTo=HTq7MRO9pIu-** 
+**1. Сылка на выполненую работу в среде google colab: https://colab.research.google.com/drive/1wbVJEjxYQS4xX8VoD1swM10Q2ocn9bvu#scrollTo=HTq7MRO9pIu-** 
